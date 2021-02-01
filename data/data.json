@@ -1,0 +1,30 @@
+{
+    "mobiles":[
+        {
+            "name":"Nokia 7.2",
+            "image":"img/image1.jpg",
+            "originalPrice":21999,
+            "price":15999
+        },{
+            "name":"Jio Phone",
+            "image":"img/image2.jpg",
+            "originalPrice":1199,
+            "price":999
+        },{
+            "name":"samsung j6plus",
+            "image":"img/image3.jpg",
+            "originalPrice":13999,
+            "price":11999
+        },{
+            "name":"vivo s30",
+            "image":"img/image4.jpg",
+            "originalPrice":11599,
+            "price":9999
+        },{
+            "name":"One plus",
+            "image":"img/image5.jpeg",
+            "originalPrice":55999,
+            "price":49999
+        }
+    ]
+}

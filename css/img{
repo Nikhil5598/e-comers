@@ -1,0 +1,9 @@
+img{
+	width:40%;
+	display:block;
+	margin:1% auto;
+	transition:transform .2s;
+}
+img:hover{
+	transform:scalex(1.5);
+}

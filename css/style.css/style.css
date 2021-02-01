@@ -1,0 +1,14 @@
+img{
+	width:40%;
+	display:block;
+	margin:1% auto;
+	transition: transform .2s;
+}
+img:hover{
+	transform: scale(1.5);
+}
+.card{
+	box-shadow: 10px 10px 5px #F31710;
+
+	 
+}
